@@ -1,2 +1,1 @@
-## solar-challenge-week1
-# This is the first challenge
+# This is about moduls for solar farm analysis cross-countries
