@@ -1,2 +1,2 @@
-## solar-challenge-week1
-# This is the first challenge
+# Solar-challenge-week1
+## This is the first challenge
