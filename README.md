@@ -15,4 +15,18 @@
     <li>push this branch</li>
     <li>merge with main branch</li>
  </ul>
+ <li>EDA
+ <ul>
+    <li>Data Cleaning</li>
+    <li>Analysis</li>
+    <li>Bubble Chart</li>
+
+ </ul>
+ </li>
+ <li> Comparison
+ <ul>
+    <li>Metric Comparison</li>
+    <li>Statistical Testing</li>
+ </ul>
+ </li>
 </ul>
