@@ -1,32 +1,27 @@
-# Solar-challenge-week1
-## This is the first challenge
+# ☀️ Solar Challenge - Week 1
 
-<p>The first task is to setup the working environments</p>
-<ul>
-<li>Donload and Installing VS code</li>
-<li>Downlaod and Installing Python and git</li>
-<li>Create Github repository</li>
-<li>Clone remote repository</li>
-<li>Create python virtual environment</li>
-<li>Activate virtual environment</li>
-<ul>
-    <li>Create branch</li>
-    <li>Configure .gitignore and requirements.txt</li>
-    <li>push this branch</li>
-    <li>merge with main branch</li>
- </ul>
- <li>EDA
- <ul>
-    <li>Data Cleaning</li>
-    <li>Analysis</li>
-    <li>Bubble Chart</li>
+Welcome to the **Solar Challenge Week 1** repository! This project sets up a basic Python development environment and Continuous Integration (CI) using GitHub Actions.
 
- </ul>
- </li>
- <li> Comparison
- <ul>
-    <li>Metric Comparison</li>
-    <li>Statistical Testing</li>
- </ul>
- </li>
-</ul>
+---
+
+## 🚀 Project Tasks Overview
+
+### ✅ Initialize Repository
+- Create a new GitHub repo named `solar-challenge-week1`
+- Clone it locally
+- Set up a Python virtual environment using `venv` 
+
+### 🌿 Branching & Commits
+- Create a branch called `setup-task`
+- Make at least 3 commits:
+  - `init: add .gitignore`
+  - `chore: venv setup`
+  - `ci: add GitHub Actions workflow`
+
+### 📄 .gitignore
+```gitignore
+venv/
+__pycache__/
+*.csv
+.ipynb_checkpoints/
+data/
