@@ -1,5 +1,5 @@
-numpy==2.0.2
+numpy==1.24.4
 pandas==2.0.3
-pytz==2025.2
+pytz==2023.3
 six==1.17.0
-tzdata==2025.2
+tzdata==2023.3
